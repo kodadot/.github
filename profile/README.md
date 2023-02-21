@@ -9,3 +9,4 @@
 - 🐦 Keep yourself updated by [following us on Twitter @kodaDot](https://twitter.com/kodadot)
 - 🌅 20 minute morning walk/workout with sunlight can do wonders to your cognition/mood
 - 🥳 [Follow KodaCon events on Telegram](https://t.me/kodacon)
+- 🤑 [Help KodaDot to onboard new artists and get rewarded](https://docs.kodadot.xyz/referral-program.html)
