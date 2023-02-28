@@ -1,4 +1,4 @@
-## Aye there 👋
+## Aye there developer, want to help us? 👋
 
 <img width="592" alt="image" src="https://user-images.githubusercontent.com/5887929/221958571-f47005d9-2d2b-42f9-99ec-e19f6b8faa8d.png">
 
