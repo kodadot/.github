@@ -1,7 +1,6 @@
 ## Aye there developer, want to help us? 👋
 
-<img width="592" alt="image" src="https://user-images.githubusercontent.com/5887929/221958571-f47005d9-2d2b-42f9-99ec-e19f6b8faa8d.png">
-
+<img width="582" alt="image" src="https://user-images.githubusercontent.com/5887929/221959431-1e5e2129-de1a-43e8-977d-6f59ab547859.png">
 
 - 🙋‍♀️ We are making most popular OSS NFT marketplace based in Polkadot ecosystem
 - 🧙 We are house full of radical opensource wizards.
