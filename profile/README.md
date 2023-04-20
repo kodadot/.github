@@ -10,13 +10,13 @@
 | 📸_ RT [Seems @KodaDot is hitting the top3 on charts 🥳](https://twitter.com/yangWao/status/1648316911116079105) |  
 | | 
 | 👩‍💻_ **Useful resources & Contribution guidelines** | 
-|[How you can be involved](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md) and [anything you should know about our codebase and code ethos](https://docs.kodadot.xyz) |
+| 🙇‍♀️_ [How you can be involved](https://github.com/kodadot/nft-gallery/blob/main/CONTRIBUTING.md) and [anything you should know about our codebase and code ethos](https://docs.kodadot.xyz) |
 | 🧙_ We are house full of radical opensource wizards. | 
-|[Are you looking for job in open source?](https://github.com/kodadot/nft-gallery/blob/main/HIRING.md) | 
+| 👩‍🔬_ [Are you looking for job in open source?](https://github.com/kodadot/nft-gallery/blob/main/HIRING.md) | 
 | 🌅_ 20 minute morning walk/workout with sunlight can do wonders to your cognition/mood | 
 | 🔁_ Have you made your pull-request to KodaDot today? |
 | | 
-| **Participate** 🙌 | 
+| 🫶_ **Participate**  | 
 | 🙌_ Join [KodaDot developer ecosystem on Telegram](https://t.me/kodadot_eco) | 
 | 🥳_ [Follow KodaCon events on Telegram](https://t.me/kodacon) | 
 | 🤑_ [Help KodaDot to onboard new artists and get rewarded](https://docs.kodadot.xyz/referral-program.html) | 
