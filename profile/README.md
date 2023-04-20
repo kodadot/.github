@@ -14,4 +14,5 @@
 | 🙌 Join [KodaDot developer ecosystem on Telegram](https://t.me/kodadot_eco) | 
 | 🥳 [Follow KodaCon events on Telegram](https://t.me/kodacon) | 
 | 🤑 [Help KodaDot to onboard new artists and get rewarded](https://docs.kodadot.xyz/referral-program.html) | 
+| 👕 [Grab our merchandise from KodaDot MerchShop](https://shop.kodadot.xyz) | 
 | 📰[Read updates & follow us on Twitter @KodaDot](https://twitter.com/kodadot) | |
