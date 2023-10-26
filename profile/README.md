@@ -1,6 +1,6 @@
 ## Aye there developer, want to help us? 👋
 
-![KodaDot logo](https://github.com/kodadot/kodadot-presskit/raw/main/v3/KODA_v3.png?raw=true)
+![KodaDot logo](https://github.com/kodadot/kodadot-presskit/raw/main/pre-v4/png/KodapinkV4.png?raw=true)
 
 [kodadot.xyz](https://kodadot.xyz)
 ---
@@ -15,7 +15,7 @@ One Stop Shop for PolkaDot NFTs, **agregating 9 NFT standards across 6 chains.**
 
 ![image](https://user-images.githubusercontent.com/5887929/233139474-b55a2480-168c-4f0e-8ce4-74ecc6fc53bb.png) 
 
-- 🥇_ We are [number **one Dapp in Polkadot** by Github](https://github.com/topics/polkadot) with most weekly comits on steady basis **with over 104 contributors** 
+- 🥇_ We are [number **one Dapp in Polkadot** by Github](https://github.com/topics/polkadot) with most weekly comits on steady basis **with over 120 contributors** 
 - 📸_ RT [Seems @KodaDot is hitting the top3 on charts 🥳](https://twitter.com/yangWao/status/1648316911116079105) 
  
 👩‍💻_ **useful resources & contribution guidelines** 
