@@ -1,10 +1,15 @@
-## Aye developer, want to help us? 👋
-
-![image](https://github.com/kodadot/.github/assets/5887929/79d25bb6-ec66-4736-8112-06a48a82fa48)
-
 
 [Generative Art Marketplace - Koda](https://kodadot.xyz)
 ---
+![image](https://github.com/kodadot/.github/assets/5887929/79d25bb6-ec66-4736-8112-06a48a82fa48)
+
+
+Aye developer, want to help us? 👋
+---
+![image](https://github.com/kodadot/.github/assets/5887929/0a9a4eb8-0837-4d03-b787-3258c589586a)
+
+
+
 
 🙋‍♀️_ **popular OSS NFT marketplace with most supported networks** 
 -
